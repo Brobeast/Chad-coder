@@ -1,0 +1,7 @@
+{
+  "bufferline.nvim": { "branch": "main", "commit": "3677aceb9a72630b0613e56516c8f7151b86f95c" },
+  "lazy.nvim": { "branch": "main", "commit": "8d18ef44e769e98a8dc974ca85275de1d8cc7c04" },
+  "nvim-treesitter": { "branch": "master", "commit": "07fb134752b4af49d1a87cc735573edeadcbb271" },
+  "staline.nvim": { "branch": "main", "commit": "8992f9a98df40160c8932fb3aacda46921c89485" },
+  "tokyonight.nvim": { "branch": "main", "commit": "1bbba3609ef69b652184710383f47e4b66ed1d3f" }
+}
